@@ -1,0 +1,4 @@
+Process type:web
+Application Runner:mono/bin/mono
+Application location: publish/aspnetdemo/bin/release/aspnetdemo.exe
+PORT:$PORT
