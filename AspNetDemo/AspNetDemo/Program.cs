@@ -15,6 +15,7 @@ namespace AspNetDemo
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Working");
             var port = 5000;
             if (args.Length > 0)
             {
