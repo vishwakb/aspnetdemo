@@ -8,5 +8,6 @@ namespace AspNetDemo
 {
     class DemoClass
     {
+        public int Id { get; set; }
     }
 }
