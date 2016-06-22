@@ -41,6 +41,7 @@ namespace AspNetDemo
         {
             //for commit 
             /// from shaurya master
+            Console.WriteLine("test");
             app.UseWelcomePage();
         }
     }
