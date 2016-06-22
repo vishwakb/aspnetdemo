@@ -40,6 +40,7 @@ namespace AspNetDemo
         public void Configuration(IAppBuilder app)
         {
             //for commit 
+            /// from shaurya master
             app.UseWelcomePage();
         }
     }
