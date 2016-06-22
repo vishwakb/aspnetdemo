@@ -39,6 +39,7 @@ namespace AspNetDemo
     {
         public void Configuration(IAppBuilder app)
         {
+            Console.WriteLine("test");
             app.UseWelcomePage();
         }
     }
