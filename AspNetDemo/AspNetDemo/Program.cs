@@ -44,6 +44,7 @@ namespace AspNetDemo
             Console.WriteLine("test");
             app.UseWelcomePage();
             // this commit is for merge request
+            // Change story 1 &
         }
     }
 }
