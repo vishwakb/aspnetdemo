@@ -40,7 +40,10 @@ namespace AspNetDemo
         public void Configuration(IAppBuilder app)
         {
             //for commit 
+            /// from shaurya master
+            Console.WriteLine("test");
             app.UseWelcomePage();
+            // this commit is for merge request
         }
     }
 }
