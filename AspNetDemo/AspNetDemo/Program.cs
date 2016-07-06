@@ -39,13 +39,10 @@ namespace AspNetDemo
     {
         public void Configuration(IAppBuilder app)
         {
-            //for commit 
-            /// from shaurya master
+            //Done changes for story 1
             Console.WriteLine("test");
             app.UseWelcomePage();
-            // this commit is for merge request
-            // Change story 1 & =
-            //Chekin by bhawana
+            
         }
     }
 }
